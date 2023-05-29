@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models/zool/zipline/zipline_arm_c"
+	$bumpmap "models/zool/zipline/zipline_arm_n"
+	$phongexponenttexture "models/zool/zipline/zipline_arm_g"
+	
+	$color2 "[0.8 0.8 0.8]"
+
+	$phong 1
+	$phongboost 2
+	$phongexponent 150
+	
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.2 0.2 0.2]"
+	$envmapfresnel 1
+}

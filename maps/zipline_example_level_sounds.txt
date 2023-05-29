@@ -1,0 +1,17 @@
+"Survival.DropzoneRappell"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.2"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_80dB"
+	"wave"		"survival\dropzone_rappell.wav"
+}
+
+"Survival.DropzonePullRipcord"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.6"
+	"pitch"		"100"
+	"soundlevel"	"SNDLVL_80dB"
+	"wave"		"survival\dropzone_parachute_deploy.wav"
+}
