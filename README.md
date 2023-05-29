@@ -18,4 +18,7 @@ Start is '_s', end is '_e', if the end has '_ee' it's one way.
 
 Examine the zipline_example.vmf for an example ( or copy paste from it! ).
 
+Note for proper sound: you need to create a maps/yourmap_level_sounds.txt containing the same soundscripts as the in the maps/zipline_example_level_sounds.txt file.
+
+
 Special Thanks to Zool for the original code.
