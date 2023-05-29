@@ -12,7 +12,7 @@ Make two move_ropes with names ziplineX_s and ziplineX_e with X being any number
 Start is '_s', end is '_e', if the end has '_ee' it's one way.
 
 <summary><sub><sup> Example zipline setup </sup></sub></summary>
-<img src="img/nmrih_9RBbFzdUJY.jpg" data-canonical-src="img/nmrih_9RBbFzdUJY.jpg" width="400" height="250" />
+<img src="img/nmrih_9RBbFzdUJY.jpg" data-canonical-src="img/nmrih_9RBbFzdUJY.jpg" width="400" height="250" /><img src="img/hammerplusplus_hJnnd8vYch.png" data-canonical-src="img/hammerplusplus_hJnnd8vYch.png" width="400" height="250" />
 
 
 
